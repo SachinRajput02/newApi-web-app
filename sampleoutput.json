@@ -1,0 +1,1293 @@
+{
+  "status": "ok",
+  "totalResults": 697,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+      "title": "Apple needs Google now, more than ever",
+      "description": "Apple continues facing delays and hurdles with implementing its own LLM. Maybe it's time to get some help from Google.",
+      "url": "https://www.androidcentral.com/phones/apple-needs-google-now-more-than-ever",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6B2GausoFaHwvVDEyc4H28-1200-80.jpg",
+      "publishedAt": "2025-03-08T16:00:00Z",
+      "content": "Google is reportedly set to launch Pixel Sense along with the Pixel 10 later this year as a Pixel-only exclusive AI assistant. However, I'd go so far as to say that there is one company Google should… [+4606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Mac Studio and Studio Display Turn Three Today",
+      "description": "Apple announced the Mac Studio and Studio Display three years ago today.\n\n\n\n\n\nThe ‌Mac Studio‌ and Studio Display were unveiled as the final major announcements of Apple's \"Peek Performance\" event. Apple CEO Tim Cook introduced them as a completely new Mac pr…",
+      "url": "https://www.macrumors.com/2025/03/08/mac-studio-and-studio-display-turn-three-today/",
+      "urlToImage": "https://images.macrumors.com/t/9rHAdeVcB3xb46Zdjkfrtxghssk=/1600x/article-new/2022/03/mac-studio-and-studio-display.jpeg",
+      "publishedAt": "2025-03-08T09:00:00Z",
+      "content": "Apple announced the Mac Studio and Studio Display three years ago today.\r\nThe ‌Mac Studio‌ and Studio Display were unveiled as the final major announcements of Apple's \"Peek Performance\" event. Apple… [+1906 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Judy Berman",
+      "title": "Seth Rogen’s Hollywood Satire The Studio Is the First Great New Show of 2025",
+      "description": "The sharp Apple TV+ showbiz satire sends up a studio head’s desperation in the era of streaming, austerity, and IP.",
+      "url": "https://time.com/7264756/the-studio-review-seth-rogen-apple/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/The_Studio_Photo_010101.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-03-08T03:15:00Z",
+      "content": "If it was up to me, an idealistic Hollywood executive played by Seth Rogen assures his assistant in the series premiere of The Studio, wed be focusing on making the next Rosemarys BabyorAnnie Hall or… [+9017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Dahlia Lithwick",
+      "title": "Those Tesla Protestors Are Making Exactly The Point SCOTUS Needs To Hear.",
+      "description": "The President says Musk is in charge of government cuts, but also that he’s not. That’s not a winning legal argument.",
+      "url": "https://slate.com/podcasts/amicus/2025/03/trumps-position-on-elon-musk-and-doge-is-unconstitutional-and-untenable",
+      "urlToImage": "https://compote.slate.com/images/24c63d16-8900-46e1-a529-a8c4f6aeab2d.png?crop=1080%2C720%2Cx100%2Cy0&width=1560",
+      "publishedAt": "2025-03-08T10:00:00Z",
+      "content": "Elon Musks moves at DOGE have been legally dubious from the start. And the more we learn, the more questions we have about this not-an-agency helmed by Musk who is apparently both in charge, and also… [+742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Emily Peck, Felix Salmon, and Elizabeth Spiers",
+      "title": "Eggonomics 102",
+      "description": "We’re all obsessing about eggs prices right now. But is it time to re-think them?",
+      "url": "https://slate.com/podcasts/slate-money/2025/03/business-donald-trump-tariffs-eggs-factory-farming-texas-lottery-canada-mexico",
+      "urlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-03-08T10:00:00Z",
+      "content": "This week: Trumps tariffs on Mexico, Canada and China went into effect only for him to turn around and suspend many of them. Felix Salmon, Emily Peck, and Elizabeth Spiers discuss Trumps love of tari… [+845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "EEUU está dejando un vacío enorme en su repliegue arancelario. Y China se está encargando de rellenarlo",
+      "description": "Las medidas que está tomando Donald Trump están provocando consecuencias diversas. Los aranceles del 25% para las importaciones de México y Canadá que acaba de activar son una forma de impulsar la industria y el empleo en ese país. Mientras tanto, China está …",
+      "url": "https://www.xataka.com/empresas-y-economia/eeuu-esta-dejando-vacio-enorme-su-repliegue-arancelario-china-se-esta-encargando-rellenarlo",
+      "urlToImage": "https://i.blogs.es/ac4b5a/trump-xi-2/840_560.jpeg",
+      "publishedAt": "2025-03-08T14:30:13Z",
+      "content": "Las medidas que está tomando Donald Trump están provocando consecuencias diversas. Los aranceles del 25% para las importaciones de México y Canadá que acaba de activar son una forma de impulsar la in… [+5273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Simonwillison.net"
+      },
+      "author": "John Gruber",
+      "title": "Simon Willison on the Privacy/Security Risks of Personalized Siri, vis-à-vis Prompt Injection",
+      "description": "Apple told John Gruber (and other Apple press) this about the new \"personalized\" Siri: \u003E It’s going to take us longer than we thought to deliver on these features and …",
+      "url": "https://simonwillison.net/2025/Mar/8/delaying-personalized-siri/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-08T20:11:03Z",
+      "content": "Simon Willison:\n\n\n These new Apple Intelligence features involve Siri responding to\nrequests to access information in applications and then perform\nactions on the user’s behalf.\r\n\n\nThis is the worst … [+1756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Nadeem Sarwar",
+      "title": "Apple confirms long delay for AI-boosted Siri assistant",
+      "description": "Apple says the highly-anticipated AI overhaul that would give Siri to more contextual awareness and get work done across different apps will arrive next year.",
+      "url": "https://www.digitaltrends.com/mobile/apple-siri-ai-makeover-feature-upgrade-capabilities-delay-next-year/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/gemini-siri-iphone-comparison-5.jpeg?resize=1200%2C630&p=1",
+      "publishedAt": "2025-03-08T08:52:17Z",
+      "content": "Apple’s efforts with putting advanced AI capabilities across its ecosystem, the way Google has implemented them with Gemini, have a lot of ground left to cover. Among them is the Siri virtual assista… [+2599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Ali Breland",
+      "title": "The Internet Is Doing Weird Things to J. D. Vance’s Face",
+      "description": "Unflattering memes of the vice president are going viral on the left—and the right.",
+      "url": "https://www.theatlantic.com/technology/archive/2025/03/jd-vance-baby-face-memes/681978/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/2KMDrcDVd1kCadHNWVjPauqtcbk=/0x43:2000x1085/1200x625/media/img/mt/2025/03/2025_03_06_JD_Vance_Memes_1/original.jpg",
+      "publishedAt": "2025-03-08T14:00:00Z",
+      "content": "J. D. Vance doesn’t look like himself. In recent days, memes have spread across social media in which the vice president’s face has been Photoshopped to give him cartoonishly chubby cheeks. He looks … [+6186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Privacyguides.org"
+      },
+      "author": "fria",
+      "title": "Toward a Passwordless Future",
+      "description": "Privacy Guides is the most popular & trustworthy non-profit privacy resource to find privacy tools and learn about protecting your digital life.",
+      "url": "https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/",
+      "urlToImage": "https://www.privacyguides.org/articles/assets/img/social/2025/03/08/toward-a-passwordless-future.png",
+      "publishedAt": "2025-03-08T23:29:14Z",
+      "content": "Illustration: Jordan / Privacy Guides | Photo: Gowtham AGM / Unsplash\r\nPasswords are annoying, vulnerable to attack, and prone to human error. The multitude of issues with passwords has cost millions… [+17295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Typesanitizer.com"
+      },
+      "author": null,
+      "title": "An epic treatise on error models for systems programming languages",
+      "description": "Musings on the representation, propagation and handling of errors in existing programming languages, as well as thoughts on future systems. (15K+ words)",
+      "url": "https://typesanitizer.com/blog/errors.html",
+      "urlToImage": null,
+      "publishedAt": "2025-03-08T04:46:33Z",
+      "content": "Target audience: Practitioners interested in programming language design\r\nand familiar with representations of errors in at least a few different languages\r\nsuch as error codes, checked/unchecked exc… [+112782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Tomislav Bezmalinovic",
+      "title": "Neue VR-Brillen 2025: Welche Geräte sind zu erwarten?",
+      "description": "Welche VR-Headsets erwarten Sie in diesem Jahr? Und welche Überraschungen könnte es 2025 geben? Eine Übersicht.",
+      "url": "https://www.heise.de/news/Neue-VR-Brillen-2025-Welche-Geraete-sind-zu-erwarten-10309070.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/1/5/3/1/2/shutterstock_1274393260-34cdb5901130dbe6.jpg",
+      "publishedAt": "2025-03-08T17:21:00Z",
+      "content": "Inhaltsverzeichnis\r\n2025 wird vermutlich ein ruhigeres Jahr für VR-Hardware. Für das meiste Aufsehen dürfte Samsungs und Googles Mixed-Reality-Headset sorgen, das derzeit einzige wichtige Gerät, das … [+9959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "Apple pulls ad that showed Siri being useful after delaying feature that could make Siri useful",
+      "description": "Since last fall, Apple has been marketing the iPhone 16 and Apple Intelligence with an unreleased Siri feature. After confirming today that the more personal version of Siri isn’t coming anytime soon, Apple has pulled the ad in question. \n\n\n\n more…",
+      "url": "https://9to5mac.com/2025/03/07/apple-pulls-ad-that-showed-siri-being-useful-after-delaying-feature-that-could-make-siri-useful/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/IMG_3032.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-08T03:31:47Z",
+      "content": "Since last fall, Apple has been marketing the iPhone 16 and Apple Intelligence with an unreleased Siri feature. After confirming today that the more personal version of Siri isnt coming anytime soon,… [+1198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Bradley C",
+      "title": "Apple @ Work: Apple Business Manager gains new functionality related to released devices",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+      "url": "https://9to5mac.com/2025/03/08/apple-business-manager-gains-new-functionality-related-to-released-devices/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/Apple-business-Manager.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-08T19:00:00Z",
+      "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary … [+3756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Apple Card now offering rare sign up bonus for a limited time: up to $200",
+      "description": "Historically, Apple Card has never offered a standard sign up bonus. Apple has certainly run a number of limited time promos, and now there’s a new one on the table. It’s a unique offer, and doesn’t have a minimum spend requirement, unlike previous Apple Card…",
+      "url": "https://9to5mac.com/2025/03/08/apple-card-rare-sign-up-bonus-200/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/apple-card-money.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-08T15:08:08Z",
+      "content": "Historically, Apple Card has never offered a standard sign up bonus. Apple has certainly run a number of limited time promos, and now there’s a new one on the table. It’s a unique offer, and doesn’t … [+1240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Fernando Silva",
+      "title": "These are the best accessories for your new M3 iPad Air",
+      "description": "In case you missed it, Apple announced two new iPads, the M3 iPad Air, and the new iPad 11th generation. As an iPad first user, these iPads just add to the excitement because they allow you to get even more power for at a cheaper price point! Another nice asp…",
+      "url": "https://9to5mac.com/2025/03/08/these-are-the-best-accessories-for-your-new-m3-ipad-air/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iPad-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-08T18:20:23Z",
+      "content": "In case you missed it, Apple announced two new iPads, the M3 iPad Air, and the new iPad 11th generation. As an iPad first user, these iPads just add to the excitement because they allow you to get ev… [+4800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Sponsored Post",
+      "title": "9to5Rewards: Enter to win a MacBook Pro from Chargeasap [Giveaway]",
+      "description": "There’s still time to enter to win Apple’s latest MacBook Pro courtesy of our friends at Chargeasap. This month, the company has launched its new Flash Pro Ultra, the world’s first dual OLED 275W powerbank. Head below the fold to enter the giveaway now and le…",
+      "url": "https://9to5mac.com/2025/03/07/9to5rewards-enter-to-win-a-macbook-pro-from-chargeasap-giveaway/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-sizes.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-08T00:17:05Z",
+      "content": "There’s still time to enter to win Apples latest MacBook Pro courtesy of our friends at Chargeasap. This month, the company has launched its new Flash Pro Ultra, the worlds first dual OLED 275W power… [+1722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Stanley Martin",
+      "title": "7 ways to upgrade your home theater system using your smart TV's USB port",
+      "description": "Use your smart TV's USB ports for media transfer, extra control options, and more",
+      "url": "https://www.androidpolice.com/smart-tv-usb-port-to-improve-your-streaming-experience/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/02/on-the-left-a-family-watching-tv-on-the-right-a-tv-with-the-usb-inputs-highlighted.jpg",
+      "publishedAt": "2025-03-08T23:53:18Z",
+      "content": "Many smart TV owners overlook a small yet powerful feature on their sets: the USB port. Its understandable, given the many apps, remote controls, and wireless connectivity options. However, these sma… [+7218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Genbeta.com"
+      },
+      "author": "Bárbara Bécares",
+      "title": "Qué fue de Ronald Wayne, el “desconocido” fundador de Apple que renunció a una enorme potencial fortuna por 800 dólares",
+      "description": "Además de Steve Jobs y de Steve Wosniak, conocidos creadores de Apple, también hubo una tercera persona: Ronald Wayne. En 1976, trabajaba en el  desarrollo de productos de Atari y era reconocido en la industria de videojuegos.\n\u003C!-- BREAK 1 --\u003E\nTenía 41 años, …",
+      "url": "https://www.genbeta.com/a-fondo/que-fue-ronald-wayne-desconocido-fundador-apple-que-renuncio-a-enorme-potencial-fortuna-800-dolares",
+      "urlToImage": "https://i.blogs.es/df4845/stephen-l-3kweyop8tt8-unsplash/840_560.jpeg",
+      "publishedAt": "2025-03-08T19:00:12Z",
+      "content": "Además de Steve Jobs y de Steve Wosniak, conocidos creadores de Apple, también hubo una tercera persona: Ronald Wayne. En 1976, trabajaba en el  desarrollo de productos de Atari y era reconocido en l… [+2666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Charles Martin)",
+      "title": "Two Apple Card Daily Cash bonus offers to entice new signups",
+      "description": "Apple is offering an alternative to its existing $75 welcome bonus for new Apple Card users, it can provide up to $200 in cash back over ten months, but you'll have to act fast.If you haven't already, it's a good time to apply for an Apple Card.Apple has post…",
+      "url": "https://appleinsider.com/articles/25/03/08/two-apple-card-daily-cash-bonus-offers-to-entice-new-signups",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/62893-130542-62335-129196-55062-111771-000-lead-Apple-Card-xl-xl-xl.jpg",
+      "publishedAt": "2025-03-08T16:43:00Z",
+      "content": "Apple is offering an alternative to its existing $75 welcome bonus for new Apple Card users, it can provide up to $200 in cash back over ten months, but you'll have to act fast.\r\nApple has posted a s… [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Charles Martin)",
+      "title": "Justice Department demands Google sell off Chrome in new filing",
+      "description": "Following a court ruling that Google has abused its monopoly in search and online advertising, the judge in the case will consider proposed remedies from both the US Department of Justice as well as Google.The DOJ wants Judge Mehta to issue stiff penalties ag…",
+      "url": "https://appleinsider.com/articles/25/03/08/justice-department-demands-google-sell-off-chrome-in-new-filing",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/62894-130543-59511-121488-41318-80120-41199-79824-36679-68411-000-lead-Google-HQ-xl-xl-xl-xl-xl.jpg",
+      "publishedAt": "2025-03-08T19:57:20Z",
+      "content": "Following a court ruling that Google has abused its monopoly in search and online advertising, the judge in the case will consider proposed remedies from both the US Department of Justice as well as … [+3603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Amanda Kooser",
+      "title": "Meet Apple's Adorable, Pixar-Esque Robot Lamp",
+      "description": "This playful and charming robot inspired by Pixar's Luxo Jr. desk lamp was built by Apple robotics researchers.",
+      "url": "https://www.cnet.com/tech/meet-apples-pixar-esque-adorable-robot-lamp/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/360e093d66724b65b9b460b99f7749fc2d50db13/hub/2025/02/07/d6371d89-6fa4-4bf5-b0de-f701d3903204/applerobotscreenshot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-03-08T13:00:03Z",
+      "content": "Pixar's movies wouldn't be the same without the intro featuring Luxo Jr., the charismatic desk lamp who hops onto the capital I in PIXAR as the animation studio's production logo unspools. While Luxo… [+3776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsiervos.com"
+      },
+      "author": "alvy@microsiervos.com (Alvy)",
+      "title": "Guerra eterna: Arial vs. Helvetica. ¿Inspiración o copia. Diseñadores y tipógrafos no se ponen de acuerdo",
+      "description": "Los mundos de la tipografía son una auténtica madriguera de conejo en la que cuanto más investigas más recovecos descubres. Por eso es imposible leerse este antiguo artículo de Emma Davis titulado La Historia de Arial: sin aprender algo nuevo sobre tipografía…",
+      "url": "https://www.microsiervos.com/archivo/arte-y-diseno/guerra-eterna-arial-vs-helvetica-inspiracion-copia.html",
+      "urlToImage": "https://img.microsiervos.com/images2025/arialvshelvetica.jpg",
+      "publishedAt": "2025-03-08T22:26:30Z",
+      "content": "Por @Alvy 8 de marzo de 2025\r\nLos mundos de la tipografía son una auténtica madriguera de conejo en la que cuanto más investigas más recovecos descubres. Por eso es imposible leerse este antiguo artí… [+2526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Korben.info"
+      },
+      "author": "Korben ✨",
+      "title": "shadPS4 - Le nouvel émulateur PS4 multi-plateformes",
+      "description": "Les copains, je viens de tomber sur shadPS4, un tout nouvel émulateur qui promet de faire tourner vos jeux PS4 préférés directement sur votre ordinateur. Et même si le projet est encore jeune, c’est prometteur car il y déjà a pas mal de jeux supportés.\nDévelo…",
+      "url": "https://korben.info/shadps4-emulateur-ps4-windows-linux-macos.html",
+      "urlToImage": "https://korben.info/shadps4-emulateur-ps4-windows-linux-macos/SCR-20250222-pyui.webp",
+      "publishedAt": "2025-03-08T08:00:00Z",
+      "content": "Les copains, je viens de tomber sur shadPS4, un tout nouvel émulateur qui promet de faire tourner vos jeux PS4 préférés directement sur votre ordinateur. Et même si le projet est encore jeune, c’est … [+2024 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Guille Lomener",
+      "title": "Casi nadie lo sabe pero el Apple Park produce un alimento único en el mundo. Ni en la tienda más exclusiva podrás comprarlo",
+      "description": "El Apple Park es mucho más que la sede de una de las compañías más influyentes del planeta. En sus jardines perfectamente diseñados, entre laboratorios secretos y edificios futuristas, ocurre algo sorprendente que pocos conocen. Se produce un alimento exclusi…",
+      "url": "https://www.applesfera.com/apple-1/casi-nadie-sabe-apple-park-produce-alimento-unico-mundo-tienda-exclusiva-podras-comprar",
+      "urlToImage": "https://i.blogs.es/156bda/mermelada-apple/840_560.jpeg",
+      "publishedAt": "2025-03-08T10:00:13Z",
+      "content": "El Apple Park es mucho más que la sede de una de las compañías más influyentes del planeta. En sus jardines perfectamente diseñados, entre laboratorios secretos y edificios futuristas, ocurre algo so… [+3307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "Estar fuera de casa no es problema para jugar a la Xbox si tenemos un iPhone: así se puede jugar en remoto",
+      "description": "Nada hay como jugar a la Xbox en una misma Xbox. En su defecto, en algún PC e incluso en Mac. Sin embargo, algo que quizás no muchos saben es que también es posible jugar a títulos de Xbox desde un iPhone. Y vale que no es igual que hacerlo en un monitor o te…",
+      "url": "https://www.applesfera.com/tutoriales/como-jugar-xbox-iphone",
+      "urlToImage": "https://i.blogs.es/07682a/xbox/840_560.jpeg",
+      "publishedAt": "2025-03-08T16:00:13Z",
+      "content": "Nada hay como jugar a la Xbox en una misma Xbox. En su defecto, en algún PC e incluso en Mac. Sin embargo, algo que quizás no muchos saben es que también es posible jugar a títulos de Xbox desde un i… [+4262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Tristan Carballeda",
+      "title": "Test Amazfit Active 2 : déjà la montre de l’année ?",
+      "description": "Amazfit commence à se faire un nom dans le monde des montres connectées. Avec l'Active 2, elle nous surprend, très agréablement.",
+      "url": "https://www.presse-citron.net/test-amazfit-active-2/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2025/03/amazfit-active-2unee.jpg",
+      "publishedAt": "2025-03-08T13:01:59Z",
+      "content": "Amazfit est une marque spécialisée dans la conception de montres connectées. Malgré leurs noms proches, elle n’a rien à voir avec le géant de l’e-commerce américain Amazon. Depuis 2015 la société bas… [+6920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Andreas Donath",
+      "title": "Schwierigkeiten: Apple verschiebt KI-Siri ins nächste Jahr",
+      "description": "Apple hat die Verzögerung bei der Einführung seiner personalisierteren Siri-Funktionen mit KI-Unterstützung eingestanden. (Siri, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fschwierigkeiten-apple-verschiebt-ki-siri-ins-naechste-jahr-2503-194097.html&referer=https%3A%2F%2Ft.co%2F8eb2be8334",
+      "urlToImage": null,
+      "publishedAt": "2025-03-08T09:45:01Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Rushil Agrawal",
+      "title": "Google could lose Chrome as the DOJ doubles down on its antitrust demands",
+      "description": "The US DOJ is continuing its antitrust case against Google, accusing the tech giant of illegally maintaining a monopoly in online search.",
+      "url": "https://www.androidauthority.com/doj-google-chrome-new-filing-3533403/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-logo-white.jpg",
+      "publishedAt": "2025-03-08T22:05:37Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EGoogle has been battling an ongoing antitrust case after a judge ruled last year that it illegally maintained its monopoly in online search.\u003C/li\u003E\u003Cli\u003EIn a new filing, the Justice Department re… [+3131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Ryan Haines",
+      "title": "I need five different apps to watch the NWSL this year, and I hate it",
+      "description": "Women's soccer coverage has come a long way in the US, but I shouldn't need this many logins in order to follow it.",
+      "url": "https://www.androidauthority.com/nwsl-streaming-apps-3530828/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/02/NWSL-streaming-schedule-reveal.jpg",
+      "publishedAt": "2025-03-08T16:00:22Z",
+      "content": "The team here at Android Authority is full of soccer fans, and we follow leagues worldwide. Sometimes, theres overlap, like Ollie Cragg and myself commiserating over Chelsea FCs constant turmoil, and… [+6092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Hadlee Simons",
+      "title": "Will your phone survive to see 7 years of updates? I used the Galaxy S8 to find out",
+      "description": "Samsung and Google promise seven years of updates, but what will it be like to use these phones after all that time? I went back to my S8.",
+      "url": "https://www.androidauthority.com/seven-year-old-galaxy-phone-week-3524228/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-S8-back-of-phone-scaled.jpg",
+      "publishedAt": "2025-03-08T12:00:45Z",
+      "content": "Samsung and Google made headlines last year when they announced that their flagship Android phones would both get seven years of updates. That would be a monumental achievement if they can pull it of… [+10837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espinof.com"
+      },
+      "author": "Miguel Solo",
+      "title": "Los fans de 'Separación' no tienen que conformarse solo con la serie. Apple ha creado todo un universo transmedia para ellos",
+      "description": "Cuando se habla de 'Separación' como la nueva 'Perdidos' no se hace en vano. La serie estrella de Apple TV vuelve en su segunda temporada a conquistar a su audiencia, y lo hace con unos capítulos llenos de intrigas, despistes y misterios que hacen aún más com…",
+      "url": "https://www.espinof.com/series-de-ficcion/fans-separacion-no-tienen-que-conformarse-solo-serie-apple-ha-creado-todo-universo-transmedia-para-ellos",
+      "urlToImage": "https://i.blogs.es/41c6c5/severance/840_560.jpeg",
+      "publishedAt": "2025-03-08T16:00:12Z",
+      "content": "Cuando se habla de 'Separación' como la nueva 'Perdidos' no se hace en vano. La serie estrella de Apple TV vuelve en su segunda temporada a conquistar a su audiencia, y lo hace con unos capítulos lle… [+2641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "Gregor Brunner",
+      "title": "Spitzenreiter Deutschland: Regierungen fragen massenhaft Nutzerdaten an",
+      "description": "Ob per Gerichtsbeschluss oder manchmal auch unbegründet: Große Technologieunternehmen können dazu verpflichtet werden, viele Daten von Nutzern preiszugeben. Mitunter haben Regierungen ein schwieriges Verhältnis zum Datenschutz.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spitzenreiter-deutschland-regierungen-fordern-massenhaft-nutzerdaten-an-110339646.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/2016451490/1.10337970/facebook_teaser/regierungen-und-behoerden.jpg",
+      "publishedAt": "2025-03-08T19:28:41Z",
+      "content": "Wie aus Daten des E-Mail-Anbieters Proton Mail hervorgeht, fragen Regierungen in weitaus höherem Maß Nutzerdaten bei großen Technologieunternehmen an als noch vor zehn Jahren. Der Auswertung zufolge,… [+6006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "/FILM"
+      },
+      "author": "staff@slashfilm.com (Nick Staniforth)",
+      "title": "The Last Of Us Season 2 Official Trailer: There Are Monsters Outside The Fence",
+      "description": "The final trailer for The Last of Us season 2 is finally here, and we're already bracing ourselves to be emotionally devastated.",
+      "url": "https://www.slashfilm.com/1806666/the-last-of-us-season-2-final-trailer/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/the-last-of-us-season-2-final-trailer/l-intro-1741472309.jpg",
+      "publishedAt": "2025-03-08T22:18:44Z",
+      "content": "The brand new trailer for season 2 of \"The Last of Us\" has shuffled its way online, promising a much cheerier, all-around nicer experience than the show's heartbreaking debut. Just kidding. We're abs… [+1080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Kenny Torrella",
+      "title": "Is your grocery store out of eggs? Try these alternatives instead.",
+      "description": "A global economic meltdown seems to be the only event that can cause people to cut back on meat. In the years that followed the 2007 Great Recession, the average American’s annual meat consumption fell by almost 9 percent. Milk purchases fell too.  But throug…",
+      "url": "https://www.vox.com/future-perfect/403134/plant-based-vegan-egg-subsitites-replacements",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/03/AP4385102742350737.jpg?quality=90&strip=all&crop=0%2C9.5419289299155%2C100%2C80.916142140169&w=1200",
+      "publishedAt": "2025-03-08T18:38:07Z",
+      "content": "The plant-based egg product Just Egg.\r\n\n\nA global economic meltdown seems to be the only event that can cause people to cut back on meat. In the years that followed the 2007 Great Recession, the aver… [+10763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "MacRumors Staff",
+      "title": "Top Stories: MacBook Air, Mac Studio, iPad Air, and iPad Updates",
+      "description": "There was definitely \"something in the air\" this week as Tim Cook promised, with Apple making a number of product announcements to breathe new life into several of its Mac and iPad products.\n\n\n\n\n\nSome aspects of the announcements were expected while others we…",
+      "url": "https://www.macrumors.com/2025/03/08/top-stories-mac-ipad-updates/",
+      "urlToImage": "https://images.macrumors.com/t/I9rUvaQtMu8cmQDq4opbAgprKEg=/1600x/article-new/2025/03/top-stories-2025-03-08.jpg",
+      "publishedAt": "2025-03-08T14:00:00Z",
+      "content": "There was definitely \"something in the air\" this week as Tim Cook promised, with Apple making a number of product announcements to breathe new life into several of its Mac and iPad products.\r\nSome as… [+3291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Mitchel Broussard",
+      "title": "Best Apple Deals of the Week: Pre-Order Deals Arrive for New iPad Air/MacBook Air, Plus Steep Discounts on AirPods and Apple Watch",
+      "description": "The highlight of Apple deals this week is Best Buy's and Amazon's pre-order discounts on the just-announced M3 iPad Air, 11th generation iPad, and M4 MacBook Air. You'll also find great, record-low prices on AirPods Pro 2, Apple Watch Series 10, and the previ…",
+      "url": "https://www.macrumors.com/2025/03/08/best-apple-deals-of-the-week-3-7-25/",
+      "urlToImage": "https://images.macrumors.com/t/2xIZJWUoxAgCk7tz3huY6LSBeSg=/2500x/article-new/2022/06/Hero0001.jpg",
+      "publishedAt": "2025-03-08T17:09:40Z",
+      "content": "The highlight of Apple deals this week is Best Buy's and Amazon's pre-order discounts on the just-announced M3 iPad Air, 11th generation iPad, and M4 MacBook Air. You'll also find great, record-low p… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Omgubuntu.co.uk"
+      },
+      "author": "Joey Sneddon",
+      "title": "Kagi is Bringing Orion Web Browser to Linux",
+      "description": "Kagi, the company behind a paid, private search engine1 of the same name, has announced it’s bringing its Webkit-based Orion web browser to Linux. In a post on BlueSky, Kagi said: “We’re thrilled to announce that development of the Orion Browser for Linux has…",
+      "url": "https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux",
+      "urlToImage": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2025/03/orion-ubuntu.jpg",
+      "publishedAt": "2025-03-08T14:38:59Z",
+      "content": "Kagi, the company behind a paid, private search engine1 of the same name, has announced it’s bringing its Webkit-based Orion web browser to Linux.\r\nIn a post on BlueSky, Kagi said: “We’re thrilled to… [+2540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "David Browne",
+      "title": "‘This Is War’: Bob Mould on Aging Indie, His Music’s Legacy, and Where the U.S. Goes from Here",
+      "description": "Bob Mould looks back at a storied punk career with Husker Du and reflects on the indie scene that defined a generation.",
+      "url": "http://www.rollingstone.com/music/music-features/bob-mould-interview-husker-du-trump-wrestling-1235286509/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/03/bob-mould-LEAD.jpg?crop=0px%2C266px%2C1800px%2C1013px&resize=1600%2C900",
+      "publishedAt": "2025-03-08T15:00:00Z",
+      "content": "By his own admission, Bob Mould is not a Zoom kind of guy, at least not in terms of the video aspect. During the early months of the Covid lockdown, he passed on doing any of those briefly in-vogue v… [+26940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Playpcesor.com"
+      },
+      "author": "Esor Huang",
+      "title": "我如何利用 Evernote 範本、每日記事 + AI 設計「原子習慣日記」",
+      "description": "每次開始專案流程、撰寫文章報告，每天早晨重新規劃行程、進行運動鍛鍊時， 你是否經常發現自己在重複規劃任務的筆記格式？我們日常許多任務都是有重複性的 ，例如專案規格、課程計畫、部落格文章架構、旅行準備清單，或每日習慣養成的記事，其實有固定的步驟、版面、基本邏輯，若是每次都要從頭開...",
+      "url": "https://www.playpcesor.com/2025/03/evernote-ai.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEj1ejegzStgcFf1mX76nmTvNJ7-A8NmbG3MaJ_8sT-4yAoZzhlZ5xGYQnnYfjmDSuLWtlCzPzj6h2uO3x-8wCBik-y8sTckidH4egMhXZgga8OPu39JlOcWTiEClS3M0ODSJ4kYb_Sy_KlLEZy7lhsMuUAU_eXRKInREC-u-8wKEyHh0QUKkeQI5A=w1200-h630-p-k-no-nu",
+      "publishedAt": "2025-03-08T12:47:00Z",
+      "content": "每次開始專案流程、撰寫文章報告，每天早晨重新規劃行程、進行運動鍛鍊時，你是否經常發現自己在重複規劃任務的筆記格式？我們日常許多任務都是有重複性的，例如專案規格、課程計畫、部落格文章架構、旅行準備清單，或每日習慣養成的記事，其實有固定的步驟、版面、基本邏輯，若是每次都要從頭開始，就讓工作失去應有的專注與效率。\r\n所以，透過「筆記模板（範本）」可以「快速複製最佳經驗」，不再每次從頭設計，節省大量時間… [+6310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "KI-gestützte Bildoptimierung: HiPixel bringt native Upscaling-Technologie auf den Mac",
+      "description": "Eine neue Anwendung für die Verbesserung von Bildauflösungen wurde neulich für macOS veröffentlicht. HiPixel setzt auf die bewährten KI-Modelle der Open-Source-Software Upscayl (hier unser Bericht der Software für Windows, Linux und macOS), präsentiert sich j…",
+      "url": "https://stadt-bremerhaven.de/ki-gestuetzte-bildoptimierung-hipixel-bringt-native-upscaling-technologie-auf-den-mac/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2025/02/SCR-20250216-pxgx.jpg",
+      "publishedAt": "2025-03-08T11:30:44Z",
+      "content": "Eine neue Anwendung für die Verbesserung von Bildauflösungen wurde neulich für macOS veröffentlicht. HiPixel setzt auf die bewährten KI-Modelle der Open-Source-Software Upscayl (hier unser Bericht de… [+2431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Handytarife sind in Deutschland laut Studie teurer als im EU-Schnitt",
+      "description": "Der deutsche Mobilfunkmarkt zeigt laut dem Vergleichsportal Verivox ein ernüchterndes Bild: Smartphone-Tarife sind hierzulande deutlich teurer als in vielen anderen europäischen Ländern. Eine aktuelle Marktanalyse soll belegen, dass Deutschland im EU-weiten P…",
+      "url": "https://stadt-bremerhaven.de/handytarife-sind-in-deutschland-laut-studie-teurer-als-im-eu-schnitt/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/09/Smartphone.jpg",
+      "publishedAt": "2025-03-08T14:30:39Z",
+      "content": "Der deutsche Mobilfunkmarkt zeigt laut dem Vergleichsportal Verivox ein ernüchterndes Bild: Smartphone-Tarife sind hierzulande deutlich teurer als in vielen anderen europäischen Ländern. Eine aktuell… [+4327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Paramount+ produziert Dokumentarfilm über Ozzy Osbourne",
+      "description": "Paramount+ hat die Produktion eines neuen Dokumentarfilms über Ozzy Osbourne angekündigt. „OZZY OSBOURNE: NO ESCAPE FROM NOW“ gewährt laut dem Unternehmen Einblicke in das Leben der Rocklegende, die seit einem folgenschweren Sturz im Jahr 2019 mit erheblichen…",
+      "url": "https://stadt-bremerhaven.de/paramount-produziert-dokumentarfilm-ueber-ozzy-osbourne/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/08/paramount-boliviainteligente-xa8oN2YWouo-unsplash-2.jpg",
+      "publishedAt": "2025-03-08T08:30:32Z",
+      "content": "Paramount+ hat die Produktion eines neuen Dokumentarfilms über Ozzy Osbourne angekündigt. „OZZY OSBOURNE: NO ESCAPE FROM NOW“ gewährt laut dem Unternehmen Einblicke in das Leben der Rocklegende, die … [+3568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "André Westphal",
+      "title": "Umfrage März 2025: Achtest du beim Technik-Kauf auf Nachhaltigkeit?",
+      "description": "Ein neuer Monat, eine neue Umfrage hier im Blog. Im Februar 2025 hatte ich euch ja danach gefragt, ob ihr bei euren Streaming-Abos in diesem Jahr Kürzungen vornehmen wollt. Das hat ein Gros der Befragten dann bejaht. Im März 2025...Zum Beitrag: Umfrage März 2…",
+      "url": "https://stadt-bremerhaven.de/umfrage-maerz-2025-achtest-du-beim-technik-kauf-auf-nachhaltigkeit/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2025/03/e-waste.jpg",
+      "publishedAt": "2025-03-08T07:00:38Z",
+      "content": "Ein neuer Monat, eine neue Umfrage hier im Blog. Im Februar 2025 hatte ich euch ja danach gefragt, ob ihr bei euren Streaming-Abos in diesem Jahr Kürzungen vornehmen wollt. Das hat ein Gros der Befra… [+2528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Erster Blick auf den Valerion VisionMaster Pro 2: High-End-Projektor überzeugt mit brillanter Bildqualität",
+      "description": "Der Heimkinomarkt bietet heute zwei grundlegende Optionen für großformatige Bildwiedergabe: Fernseher oder Projektoren / Beamer. Ich hatte die Möglichkeit, mehrere Wochen den TV gegen einen Laser-Beamer einzutauschen. Der VisionMaster Pro 2 von Valerion posit…",
+      "url": "https://stadt-bremerhaven.de/erster-blick-auf-den-valerion-visionmaster-pro-2-high-end-projektor-ueberzeugt-mit-brillanter-bildqualitaet/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2025/03/valerion-visionmaster-pro2-4.jpg",
+      "publishedAt": "2025-03-08T05:30:28Z",
+      "content": "Der Heimkinomarkt bietet heute zwei grundlegende Optionen für großformatige Bildwiedergabe: Fernseher oder Projektoren / Beamer. Ich hatte die Möglichkeit, mehrere Wochen den TV gegen einen Laser-Bea… [+9848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Vincent Perella",
+      "title": "Seth Rogen Says Studio Heads Having to ‘Disappoint Their Idols’ Is ‘Very Comedic’",
+      "description": "Red Carpet: Rogen spoke with IndieWire about his new Apple TV+ series \"The Studio\" at SXSW.",
+      "url": "https://www.indiewire.com/news/breaking-news/seth-rogen-on-how-studio-heads-have-to-disappoint-their-idols-1235102180/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/03/Screen-Shot-2025-03-07-at-10.05.28-PM.png?w=650",
+      "publishedAt": "2025-03-08T19:00:08Z",
+      "content": "Seth Rogen celebrated the world premiere of his Apple TV+ series “The Studio” at SXSW on Friday, March 7. He writes, directs, and executive produces the show, which parodies the inner workings of Hol… [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Benjamin Destrebecq",
+      "title": "Des rendus du Pixel 9a confirment qu’il sera presque parfaitement plat",
+      "description": "Le Pixel 9a continue de se dévoiler au détour de leaks, avec cette fois-ci des rendus supposément officiels qui viennent nous confirmer que l'appareil photo ne sera pas aussi proéminent que d'habitude.",
+      "url": "https://www.frandroid.com/marques/google/2535665_des-rendus-du-pixel-9a-confirment-quil-sera-presque-parfaitement-plat",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9a-1200x670-1.jpg?resize=1600,900&key=8559fbf6&watermark",
+      "publishedAt": "2025-03-08T08:39:47Z",
+      "content": "Le Pixel 9a continue de se dévoiler au détour de leaks, avec cette fois-ci des rendus supposément officiels qui viennent nous confirmer que l’appareil photo ne sera pas aussi proéminent que d’habitud… [+1549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Noémie Koskas",
+      "title": "Honor Pad V9 : cette tablette prometteuse (2,8K, 144 Hz) vient d’être présentée, mais elle coûte déjà 50 euros de moins",
+      "description": "Dévoilée au MWC 2025 de Barcelone, la Honor Pad V9 est une nouvelle tablette tactile qui offre un rapport équipement/prix assez avantageux. Cette ardoise, qui embarque notamment un écran 2,8K rafraîchis à 144 Hz, est même d'ores et déjà en promotion : le site…",
+      "url": "https://www.frandroid.com/produits-android/2532975_honor-pad-v9-cette-tablette-prometteuse-28k-144-hz-vient-detre-presentee-mais-elle-coute-deja-50-euros-de-moins",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/honor-pad-v9-1200x750-1.jpg?resize=1600,900&key=cc6c97cf&watermark",
+      "publishedAt": "2025-03-08T08:27:00Z",
+      "content": "Dévoilée au MWC 2025 de Barcelone, la Honor Pad V9 est une nouvelle tablette tactile qui offre un rapport équipement/prix assez avantageux. Cette ardoise, qui embarque notamment un écran 2,8K rafraîc… [+3429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Geoffroy Husson",
+      "title": "Test de la Xiaomi Watch S4 : une montre personnalisable à l’excellente autonomie",
+      "description": "Xiaomi étend sa gamme de montres connectées personnalisables et autonomes avec la Xiaomi Watch S4. Mais que vaut-elle face à la concurrence ? C'est ce qu'on va voir dans ce test complet.",
+      "url": "https://www.frandroid.com/marques/xiaomi/2516701_test-de-la-xiaomi-watch-s4-une-montre-personnalisable-a-lexcellente-autonomie",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/sans-titre-17-1200x901-1.jpg?resize=1600,900&key=259efe0b&watermark",
+      "publishedAt": "2025-03-08T11:00:00Z",
+      "content": "La Xiaomi Watch S4 // Source : Chloé Pertuis – Frandroid\r\nUn an après sa Watch S3, Xiaomi revient avec une nouvelle montre connectée au look hautement personnalisable, la nouvelle Xiaomi Watch S4. Dé… [+15856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Tristan Jacquel",
+      "title": "AKG N9 Hybrid : l’équilibre parfait entre puissance et finesse",
+      "description": "Flagship de la nouvelle gamme audio nomade d'AKG, le N9 Hybrid se présente comme un casque sans fil premium aux ambitions audiophiles. Partageant l'ADN sonore de son petit frère, les écouteurs N5 Hybrid lancés simultanément, il offre une signature sonore rema…",
+      "url": "https://www.frandroid.com/marques/akg/2524573_akg-n9-hybrid-lequilibre-parfait-entre-puissance-et-finesse",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/test-akg-n9-hybrid-8-1200x900-1.jpg?resize=1600,900&key=fd07f9c5&watermark",
+      "publishedAt": "2025-03-08T16:00:00Z",
+      "content": "Le casque Bluetooth AKG N9 Hybrid // Source : Tristan Jacquel\r\nDepuis plus de 75 ans, AKG s’impose comme une référence incontournable dans le monde de l’audio professionnel. Des studios d’enregistrem… [+16327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wwwhatsnew.com"
+      },
+      "author": "Natalia Polo",
+      "title": "Apple introduce resúmenes de reseñas generadas por IA en la App Store",
+      "description": "Apple sigue apostando por la inteligencia artificial y, con la llegada de iOS 18.4, implementa una nueva funcionalidad en la App Store: resúmenes automáticos de reseñas generados por IA. Esta característica tiene como objetivo facilitar a los usuarios la eval…",
+      "url": "https://wwwhatsnew.com/2025/03/08/apple-introduce-resumenes-de-resenas-generadas-por-ia-en-la-app-store/",
+      "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2025/03/Apple-implementa-IA-en-la-App-Store-Resumenes-automaticos-de-resenas.webp",
+      "publishedAt": "2025-03-08T07:00:25Z",
+      "content": "Apple sigue apostando por la inteligencia artificial y, con la llegada de iOS 18.4, implementa una nueva funcionalidad en la App Store: resúmenes automáticos de reseñas generados por IA. Esta caracte… [+3451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "LannieQ",
+      "title": "Costco Members: Apple AirPods Pro w/ USB-C MagSafe Case (2nd Gen) + 2-Yr AppleCare+ $180 + Free Shipping",
+      "description": "Costco Wholesale has for their *Members: Apple AirPods Pro Wirless Earbuds w/ USB-C MagSafe Case* (2nd Gen, BA0B3LL/A / MTJV3LL/A) *+ 2-Years of AppleCare+* on sale for *$179.99*. *Shipping is free*....",
+      "url": "https://slickdeals.net/f/18164035-costco-apple-airpods-pro-2-with-applecare-179-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "urlToImage": "https://slickdeals.net/attachment/5/1/4/8/2/1/3/450x450/17204170.thumb",
+      "publishedAt": "2025-03-08T05:22:28Z",
+      "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "ProudToBeAnIndian",
+      "title": "Straight Talk 128GB Apple iPhone 16e Smartphone (Locked) + 1-Month Platinum Unlimited Service $364 + Free Shipping",
+      "description": "Walmart has *128GB Apple iPhone 16e Smartphone* (Straight Talk Locked, Black or White) + *1-Month Platinum Unlimited Service* on sale for *$364*. Additionally, you will receive *$300 back in device...",
+      "url": "https://slickdeals.net/f/18163537-walmart-iphone-16e-128gb-straight-talk-with-1-month-service-364?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "urlToImage": "https://slickdeals.net/attachment/1/7/4/4/2/6/0/450x450/17203033.thumb",
+      "publishedAt": "2025-03-08T00:00:03Z",
+      "content": "This deal is better for people who have issues placing order with straight talk directly.It comes with 1 month service so you can just activate and wait for 60 days to unlock .\r\nNo need to open the b… [+110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Directoalpaladar.com"
+      },
+      "author": "Jaime de las Heras",
+      "title": "Así es el ETA, el permiso que necesitarás para viajar a Reino Unido a partir de abril: cuánto cuesta y cuándo entra en vigor",
+      "description": "​A partir del 2 de abril de 2025, el Reino Unido implementará la Autorización Electrónica de Viaje (Electronic Travel Authorisation o ETA, por sus siglas en inglés) como requisito obligatorio para los ciudadanos de la Unión Europea que deseen ingresar al país…",
+      "url": "https://www.directoalpaladar.com/viajes/asi-eta-documento-que-necesitaras-para-viajar-a-reino-unido-a-partir-abril-cuanto-cuesta-cuando-entra-vigor",
+      "urlToImage": "https://i.blogs.es/5393dd/como-eta-viajar-reino-unido-precio/840_560.jpeg",
+      "publishedAt": "2025-03-08T08:00:13Z",
+      "content": "A partir del 2 de abril de 2025, el Reino Unido implementará la Autorización Electrónica de Viaje (Electronic Travel Authorisation o ETA, por sus siglas en inglés) como requisito obligatorio para los… [+4259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Sagar",
+      "title": "Apple Watch won't face import ban as Apple wins the AliveCor patent case",
+      "description": "You might have heard of Apple's patent dispute with medical technology company Masimo, which resulted in a sales ban on Apple Watches with SpO2 sensors in the US. Well, the Cupertino-based tech giant was also involved in a legal battle with health tech compan…",
+      "url": "https://www.gsmarena.com/apple_watch_alivecor_patent_case_ruling-news-66863.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/12/apple-watch-sales-ban-temporary-halt/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2025-03-08T12:45:03Z",
+      "content": "You might have heard of Apple's patent dispute with medical technology company Masimo, which resulted in a sales ban on Apple Watches with SpO2 sensors in the US. Well, the Cupertino-based tech giant… [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Peter",
+      "title": "Deals: new iPad and iPad Air go on pre-order, Galaxy S25 Ultra price drops",
+      "description": "This was “Air” week for Apple as it announced new iPads and MacBooks with upgraded chipsets. Note that the new Apple devices are on pre-order and will be available from March 12 (Wednesday). We also look at Samsung Galaxy discounts, plus Amazon’s advanced new…",
+      "url": "https://www.gsmarena.com/deals_new_ipad_and_ipad_air_go_on_preorder_galaxy_s25_ultra_price_drops-news-66847.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/03/weekly-deals-7/-952x498w6/gsmarena_us.jpg",
+      "publishedAt": "2025-03-08T23:33:02Z",
+      "content": "This was Air week for Apple as it announced new iPads and MacBooks with upgraded chipsets. Note that the new Apple devices are on pre-order and will be available from March 12 (Wednesday). We also lo… [+3072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Peter",
+      "title": "Deals: Xiaomi 15 and 15 Ultra arrive, Nothing Phone (3a) launches, new iPads too",
+      "description": "With MWC kicking off, this was an exciting week. Xiaomi brought the 15 and 15 Ultra over to Europe. Meanwhile, Nothing unveiled its (3a) series of phones.\n\nOver at Cupertino, it was “Air” week as Apple announced new iPads and MacBooks with upgraded chipsets. …",
+      "url": "https://www.gsmarena.com/deals_xiaomi_15_and_15_ultra_arrive_nothing_phone_3a_launches_new_ipads_too-news-66849.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/03/weekly-deals-7/-952x498w6/gsmarena_uk.jpg",
+      "publishedAt": "2025-03-08T15:17:02Z",
+      "content": "With MWC kicking off, this was an exciting week. Xiaomi brought the 15 and 15 Ultra over to Europe. Meanwhile, Nothing unveiled its (3a) series of phones.\r\nOver at Cupertino, it was Air week as Apple… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Adam B. Vary",
+      "title": "‘The Studio’ Co-Creator Seth Rogen Says Martin Scorsese Told Him ‘You Guys Say “F–––” Too Much’",
+      "description": "It’s fitting that creative partners Seth Rogen and Evan Goldberg chose to premiere their Apple TV+ series “The Studio” — a scathingly accurate satire of the modern film industry — at South by Southwest, a festival at once adoring of film culture and deeply ir…",
+      "url": "https://variety.com/2025/tv/news/the-studio-seth-rogen-martin-scorsese-f-word-1236331847/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/MAB_9581.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-03-08T05:57:11Z",
+      "content": "It’s fitting that creative partners Seth Rogen and Evan Goldberg chose to premiere their Apple TV+ series “The Studio” — a scathingly accurate satire of the modern film industry — at South by Southwe… [+3410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dnyuz.com"
+      },
+      "author": "New York Times",
+      "title": "Gaga's Latest Experiment? Happiness...",
+      "description": "Gaga's Latest Experiment? Happiness...\r\n\n \n \n \n (Second column, 7th story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+      "url": "https://dnyuz.com/2025/03/08/lady-gagas-latest-experiment-happiness/",
+      "urlToImage": "https://dnyuz.com/wp-content/uploads/2025/03/Lady-Gagas-Latest-Experiment-Happiness.jpg",
+      "publishedAt": "2025-03-08T15:43:45Z",
+      "content": "Over the course of her long career, Lady Gaga has proved herself to be one of musics great shape-shifters. She has gone from the dance pop of her earliest albums, like The Fame (2008), to the rockier… [+18184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smartworld.it"
+      },
+      "author": "Alessandro Nodari",
+      "title": "Apple non riesce a venire a capo del nuovo Siri alimentato dall'IA. Come minimo è in ritardo, e forse peggio",
+      "description": "Apple ha un problema: la nuova versione \"personalizzata\" di Siri dotata di funzionalità basate sull'intelligenza artificiale generativa, non solo è...\r\nL'articolo Apple non riesce a venire a capo del nuovo Siri alimentato dall'IA. Come minimo è in ritardo, e …",
+      "url": "https://www.smartworld.it/news/siri-ia-problemi-apple.html",
+      "urlToImage": "https://www.smartworld.it/images/2025/03/08/siri-ia_1200x675.jpg",
+      "publishedAt": "2025-03-08T07:35:00Z",
+      "content": "Apple ha un problema: la nuova versione \"personalizzata\" di Siri dotata di funzionalità basate sull'intelligenza artificiale generativa, non solo è in forte ritardo, ma rischia addirittura di essere … [+2593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Adam Williams",
+      "title": "USA's timber takeover continues with wooden college tower",
+      "description": "Modern timber construction is growing at a remarkable rate in the United States and the latest significant project to showcase this trend comes from designer of the High Line Diller Scofidio + Renfro. The studio has designed a new wooden college tower that wi…",
+      "url": "https://newatlas.com/architecture/pardee-school-global-studies/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/4586c66/2147483647/strip/true/crop/3000x1575+0+81/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2c%2F1d%2Ff77f07fb48ac9533fa8d786eeeee%2F01-pardee-view-from-beach-courtesy-of-ds-r.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-03-08T16:03:00Z",
+      "content": "Modern timber construction is growing at a remarkable rate in the United States and the latest significant project to showcase this trend comes from designer of the High Line Diller Scofidio + Renfro… [+1601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Creative Bloq"
+      },
+      "author": "Daniel John",
+      "title": "\"She embodies strength, resilience, and pride\": Ron Timehin on photographing LGBTQ+ icon Lady Phyll",
+      "description": "Ron shares his process, and advice for aspiring photographers.",
+      "url": "https://www.creativebloq.com/photography/she-embodies-strength-resilience-and-pride-ron-timehin-on-photographing-lgbtq-icon-lady-phyll",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6vTEut26RFc8bRWXXhCN74-1200-80.jpg",
+      "publishedAt": "2025-03-08T09:00:00Z",
+      "content": "Contemporary and commercial photographer Ron Timehin has worked with countless personalities and brands, including Apple, Adobe and Disney, and seen his work published in the likes of Vogue, GQ and m… [+4924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Fran Besora",
+      "title": "Ni 'Bluey' ni 'La patrulla canina', este es el bombazo que va a tener a tus hijos enganchados",
+      "description": "Es cierto que series como Bluey o La patrulla canina están arrasando entre los más pequeños, pero siempre es recomendable explorar alternativas que ofrezcan nuevas perspectivas y enseñanzas. Hoy te recomendamos una serie animada reciente, estrenada el 14 de f…",
+      "url": "https://www.lavanguardia.com/andro4all/series/ni-bluey-ni-la-patrulla-canina-este-es-el-bombazo-que-va-a-tener-a-tus-hijos-enganchados",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/03/goldie.jpg?width=1200",
+      "publishedAt": "2025-03-08T08:01:47Z",
+      "content": "Es cierto que series como Bluey o La patrulla canina están arrasando entre los más pequeños, pero siempre es recomendable explorar alternativas que ofrezcan nuevas perspectivas y enseñanzas. Hoy te r… [+2023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Fran Besora",
+      "title": "Después de 18 años, Apple acaba de eliminar una de sus características más icónicas del iPhone. Es el fin de una era",
+      "description": "El mes pasado, Apple lanzó el iPhone 16e, un nuevo modelo que forma parte de la gama iPhone 16 y se posiciona como el modelo de entrada, permitiendo que más personas tengan un iPhone con Apple Intelligence a un precio más accesible. Sin embargo, a pesar de lo…",
+      "url": "https://www.lavanguardia.com/andro4all/apple/despues-de-18-anos-apple-acaba-de-eliminar-una-de-sus-caracteristicas-mas-iconicas-del-iphone-es-el-fin-de-una-era",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/03/iphone-16e.1741344103.7624.jpeg?width=1200",
+      "publishedAt": "2025-03-08T11:31:15Z",
+      "content": "El iPhone 16e tiene un diseño que recuerda al iPhone 14\r\nEl mes pasado, Apple lanzó el iPhone 16e, un nuevo modelo que forma parte de la gama iPhone 16 y se posiciona como el modelo de entrada, permi… [+2606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Eva Luna Rivera",
+      "title": "Por fin baja de precio este iPad que consigue la mejor relación calidad-precio del mercado",
+      "description": "Si hay algo que no se le puede negar a Apple es que todo lo que hace, lo hace bien. Lo único que le puedo echar en cara como persona que dedica gran parte de su vida a buscar ofertas, es que es un fabricante que no suele rebajar sus productos, pero es que no …",
+      "url": "https://www.lavanguardia.com/andro4all/ofertas/por-fin-baja-de-precio-este-ipad-que-consigue-la-mejor-relacion-calidad-precio-del-mercado",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/01/ipad-2022.1736792278.48.jpg?width=1200",
+      "publishedAt": "2025-03-08T14:00:50Z",
+      "content": "Este iPad de 10ª generación será un acierto seguro gracias a su excelente rendimiento y a su manejabilidad\r\nSi hay algo que no se le puede negar a Apple es que todo lo que hace, lo hace bien. Lo únic… [+4834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Sergio J. Ortiz",
+      "title": "No es un iPad, pero es la mejor tablet barata que puedes comprar",
+      "description": "El mercado está repleto de tablets de muy alta calidad pero es un sector ampliamente dominado por el iPad de Apple. Aunque la firma californiana ha presentado recientemente un nuevo iPad de 11ª generación por un precio de salida de 399 euros, el resto de sus …",
+      "url": "https://www.lavanguardia.com/andro4all/ofertas/no-es-un-ipad-pero-es-la-mejor-tablet-barata-que-puedes-comprar",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/03/asi-de-espectacular-luce-la-xiaomi-pad-6.jpg?width=1200",
+      "publishedAt": "2025-03-08T16:00:16Z",
+      "content": "Xiaomi Pad 6\r\nEl mercado está repleto de tablets de muy alta calidad pero es un sector ampliamente dominado por el iPad de Apple. Aunque la firma californiana ha presentado recientemente un nuevo iPa… [+3275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "David Freire",
+      "title": "Tado X, análisis: el mejor aliado para ahorrar en calefacción y controlar la temperatura desde el móvil",
+      "description": "Como no todo van a ser móviles y estamos en el periodo más frío del año, durante estos primeros meses del 2025 en Andro4all estamos probando diferentes dispositivos que te pueden ayudar a no pasar frío en invierno. Así, después de analizar el Hexafresh Hexapr…",
+      "url": "https://www.lavanguardia.com/andro4all/tecnologia/tado-x-analisis-el-mejor-aliado-para-ahorrar-en-calefaccion-y-controlar-la-temperatura-desde-el-movil",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/03/tado-x-portada.jpg?width=1200",
+      "publishedAt": "2025-03-08T16:02:33Z",
+      "content": "El termostato inteligente Tado X cuenta con tres botones físicos en su parte delantera que te permiten ver y regular la temperatura de tu casa / Fotografía: Rubén Ulloa\r\nComo no todo van a ser móvile… [+18714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Universe Today"
+      },
+      "author": null,
+      "title": "How Humans Can Reinvent Themselves to Live on Other Worlds",
+      "description": "Let’s face it: Space is a hostile environment for humans. Even on Mars, settlers might have a hard time coping with potentially lethal levels of radiation, scarce resources and reduced gravity.\n\nIn “Mickey 17” — a new sci-fi movie from Bong Joon Ho, the South…",
+      "url": "https://www.universetoday.com/articles/how-humans-can-reinvent-themselves-to-live-on-other-worlds",
+      "urlToImage": null,
+      "publishedAt": "2025-03-08T10:39:00Z",
+      "content": "Lets face it: Space is a hostile environment for humans. Even on Mars, settlers might have a hard time coping with potentially lethal levels of radiation, scarce resources and reduced gravity.\r\nIn Mi… [+7019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Camila Rinaldi",
+      "title": "Die besten Apple Watches im Vergleich: Welche Uhr ist die richtige für Euch?",
+      "description": "Entdeckt, welche Apple Watch die Richtige für Euch ist - Ultra 2, Series 10 oder SE. Das ist die beste Option, um Euer iPhone zu ergänzen",
+      "url": "https://www.nextpit.de/apple-watch-test-vergleich-03-2025",
+      "urlToImage": "https://fs.npstatic.com/userfiles/7687254/image/Apple_Watch_2024-w1400h788.jpg",
+      "publishedAt": "2025-03-08T13:00:01Z",
+      "content": "Die besten Apple-Watch-Modelle in 2025\r\n\u003Ctable\u003E\u003Ctr\u003E\u003Ctd\u003E \u003C/td\u003E\u003Cth\u003EPro-Tipp\u003C/th\u003E\u003Cth\u003EWahl der Redaktion\u003C/th\u003E\u003Cth\u003EDie erschwingliche Option\u003C/th\u003E\u003C/tr\u003E\r\n\u003Ctr\u003E\u003Cth\u003EModell\u003C/th\u003E\u003Ctd\u003E\u003C/td\u003E\u003Ctd\u003E\u003C/td\u003E\u003Ctd\u003E\u003C/td\u003E\u003C/tr\u003E\u003Ct… [+10892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Artem Sandler",
+      "title": "Nur kurz: Diese Kamera-App holt alles aus Eurem Handy",
+      "description": "Wenn Fotos schlecht werden, liegt es nicht immer am Handy. Wer alles aus seinem Smartphone herausholen will, sollte diese Kamera-App gratis herunterladen.",
+      "url": "https://www.nextpit.de/nur-kurz-diese-kamera-app-holt-alles-aus-eurem-handy",
+      "urlToImage": "https://fs.npstatic.com/userfiles/7762777/image/Sonstiges/kamera-app-kostenlos-w1400h788.jpg",
+      "publishedAt": "2025-03-08T09:00:01Z",
+      "content": "In den beiden App-Stores von Google und Apple, dem Play Store und dem App Store, findet sich eine schier endlose Anzahl an Anwendungen. Einige dieser Apps sind kostenlos, andere wiederum kostenpflich… [+4187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomshw.it"
+      },
+      "author": "Andrea Maiellano",
+      "title": "Galaxy S25 Edge potrebbe costare parecchio",
+      "description": "Nel panorama sempre più competitivo degli smartphone premium, Samsung si appresta a completare la sua gamma Galaxy S25 con un quarto modello che promette di seguire, e definire, i trend di desi...",
+      "url": "https://www.tomshw.it/smartphone/galaxy-s25-edge-trapelati-i-dettagli-chiave-sul-prezzo-2025-03-08",
+      "urlToImage": "https://www.tomshw.it/storage/media/2025/02/49773/s25-edge.jpg",
+      "publishedAt": "2025-03-08T12:09:41Z",
+      "content": "Nel panorama sempre più competitivo degli smartphone premium, Samsung si appresta a completare la sua gamma Galaxy S25 con un quarto modello che promette di seguire, e definire, i trend di design nel… [+5768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Googlewatchblog.de"
+      },
+      "author": "Jens",
+      "title": "Android: Google hält Widgets plötzlich für Gamechanger – das sind die Vorteile und die Wünsche der Nutzer",
+      "description": "Für viele Nutzer dürften die Android-Widgets auf dem Homescreen äußerst praktisch und sicherlich auch ein fester Bestandteil der eigenen Smartphone-Oberfläche sein. Google hat in den vergangenen Jahren kein großes Interesse an Widgets gezeigt, doch das schein…",
+      "url": "https://www.googlewatchblog.de/2025/03/android-google-haelt-widgets-ploetzlich-fuer-gamechanger-das-sind-die-vorteile-und-die-wuensche-der-nutzer/",
+      "urlToImage": "https://www.googlewatchblog.de/wp-content/uploads/android-widgets.jpg",
+      "publishedAt": "2025-03-08T06:00:11Z",
+      "content": "Für viele Nutzer dürften die Android-Widgets auf dem Homescreen äußerst praktisch und sicherlich auch ein fester Bestandteil der eigenen Smartphone-Oberfläche sein. Google hat in den vergangenen Jahr… [+6904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Artem Sandler",
+      "title": "8,9 von 10: Das ist die beste Sci-Fi-Serie der Welt",
+      "description": "Es gibt viele Serien, die den Titel der besten Sci-Fi-Serie der Welt verdient hätten. Gewonnen hat jedoch weder Star Trek noch The Expanse und Co.",
+      "url": "https://www.nextpit.de/8-9-von-10-das-ist-die-beste-sci-fi-serie-der-welt",
+      "urlToImage": "https://fs.npstatic.com/userfiles/7762777/image/Sonstiges/beste-sci-fi-serie-der-welt-w1400h788.jpg",
+      "publishedAt": "2025-03-08T07:55:39Z",
+      "content": "Die Internet Movie Database (IMDb) listet die meisten Serien und Filme aus aller Welt. Neben den eigentlichen Titeln finden sich dort jedoch auch jede Menge zusätzliche Infos und dazu gehören auch un… [+2635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Error500.net"
+      },
+      "author": "Antonio Ortiz",
+      "title": "Si en inteligencia artificial no hay moat, sus creadores no capturarán el valor de la mejora de productividad",
+      "description": "Chatbot Arena se ha convertido en el benchmark que suelo mirar primero para entender el nivel de un modelo conversacional.",
+      "url": "https://www.error500.net/p/si-en-inteligencia-artificial-no",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F680eddd5-de5a-4cb4-bfcf-458f4b847ac5_1344x768.jpeg",
+      "publishedAt": "2025-03-08T11:31:50Z",
+      "content": "Chatbot Arena se ha convertido en el benchmark que suelo mirar primero para entender el nivel de un modelo conversacional.\r\nEn lugar de un conjunto de pruebas estandarizado (que suelen tener el probl… [+7986 chars]"
+    },
+    {
+      "source": {
+        "id": "focus",
+        "name": "Focus"
+      },
+      "author": "FOCUS online",
+      "title": "Trick - Warum Sie immer einen kleingefalteten Schein im Geldbeutel haben sollten",
+      "description": "Um an der Kasse nicht ohne Bargeld dazustehen, lohnt sich der einfache Trick mit dem gefalteten Geldschein. Hier lesen Sie, was es damit auf sich hat.",
+      "url": "https://www.focus.de/wissen/einfach-besser-leben/trick-warum-sie-immer-einen-kleingefalteten-schein-im-geldbeutel-haben-sollten_0130db6b-4f41-455b-a608-661aec5f9ee2.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/b3e168c7-7595-4368-b35f-23309d568a58.fe70f474-d84e-4daa-8d78-fb3d6437e67b.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%28214%2C177%29&hash=678eed7933d031d8f2c0df96bf64357738afe17a605875155ede52b845e9d86f",
+      "publishedAt": "2025-03-08T22:01:00Z",
+      "content": "Beim Bezahlen gibt es verschiedene Vorlieben: Manche nutzen Karte oder Smartphone, andere setzen auf Bargeld. Unabhängig davon lohnt es sich, immer einen Notfallschein dabeizuhaben.\r\nIst der Handy-Ak… [+2840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomshw.it"
+      },
+      "author": "Andrea Maiellano",
+      "title": "Apple costretta a ricominciare da zero con Siri AI",
+      "description": "Il dietrofront di Apple sul progetto di una Siri più personale sta generando non poco scompiglio all'interno dell'azienda di Cupertino. Il colosso tecnologico ha ufficialmente annunciato il rin...",
+      "url": "https://www.tomshw.it/smartphone/apple-costretta-a-ricominciare-da-zero-con-siri-ai-2025-03-08",
+      "urlToImage": "https://www.tomshw.it/storage/media/2025/03/51390/Siri.png",
+      "publishedAt": "2025-03-08T20:56:45Z",
+      "content": "Il dietrofront di Apple sul progetto di una \"Siri più personale\" sta generando non poco scompiglio all'interno dell'azienda di Cupertino. Il colosso tecnologico ha ufficialmente annunciato il rinvio … [+4908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomshw.it"
+      },
+      "author": "Andrea Maiellano",
+      "title": "Un iPhone 16 Pro si è surriscaldato e ha fuso la porta USB-C",
+      "description": "Nel cuore della notte di San Valentino, Glenn Jacobsen si è svegliato di soprassalto a causa del fumo che usciva dal suo iPhone 16 Pro. Acquistato solo quattro mesi prima, il dispositivo stava...",
+      "url": "https://www.tomshw.it/smartphone/un-iphone-16-pro-si-e-surriscaldato-e-ha-fuso-la-porta-usb-c-2025-03-08",
+      "urlToImage": "https://www.tomshw.it/storage/media/2025/03/51388/iPhone-16-fuso.avif",
+      "publishedAt": "2025-03-08T13:39:32Z",
+      "content": "Nel cuore della notte di San Valentino, Glenn Jacobsen si è svegliato di soprassalto a causa del fumo che usciva dal suo iPhone 16 Pro. Acquistato solo quattro mesi prima, il dispositivo stava carica… [+4928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techbang.com"
+      },
+      "author": "IFENG",
+      "title": "蘋果AI危機浮現：Siri恐落後五年，該如何把握時間逆襲？",
+      "description": "與蘋果在2011年率先推出Siri、領先聊天機器人領域的地位形成強烈對比。 如今，蘋果不僅腳步慢了下來，強化Siri的進度也遠遠超低於預期。 \n蘋果公司正面臨嚴峻的AI人工智慧危機！ 彭博社知名記者 Mark Gurman 日前撰文指出，蘋果在自研AI技術上進展遲緩，已被競爭對手遠遠拋在腦後，具備現代化對話能力的Siri語音助理，恐怕最快也要等到2027年才能問世。\n這與蘋果在2011年率先推出Siri、領先聊天機器人領域的地位形成強烈對比。 如今，蘋果不僅腳步慢了下來，強化Siri的進度也遠遠低於預期，令人擔憂…",
+      "url": "https://www.techbang.com/posts/121769-apples-ai-crisis-emerges-siri-is-afraid-of-being-five-years",
+      "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/121769/original/d12717264ade34106fffd8fee6bf322c.jpg?1741074217",
+      "publishedAt": "2025-03-08T06:30:00Z",
+      "content": "AI Mark Gurman AISiri2027\r\n2011Siri SiriAI\r\nSiri AI\r\nAISiri Siri\r\nApple IntelligenceGenmoji\r\nAI AIChatGPT Google AI - \r\nApple Intelligence \r\nApple Intelligence AIiPhone\r\n AIiPhone Apple Intelligence … [+499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Geeksaresexy.net"
+      },
+      "author": "Geeks are Sexy",
+      "title": "Today’s Hottest Deals: 40000mAh Power Bank for $24, Apple Watch Series 10, Ember Temperature Control Smart Mug 2, TurboTax Tax Software, and MORE!",
+      "description": "For today’s edition of “Deal of the Day,” here are some of the best deals we stumbled on while browsing the web this morning! Please note that Geeks are Sexy might get a small commission from qualifying purchases done through our posts. As an Amazon Associate…",
+      "url": "https://www.geeksaresexy.net/2025/03/08/todays-hottest-deals-40000mah-power-bank-for-24-apple-watch-series-10-ember-temperature-control-smart-mug-2-turbotax-tax-software-and-more/",
+      "urlToImage": "https://www.geeksaresexy.net/wp-content/uploads/2025/03/deal-ember.jpg",
+      "publishedAt": "2025-03-08T12:59:49Z",
+      "content": "For todays edition of Deal of the Day, here are some of the best deals we stumbled on while browsing the web this morning! Please note that Geeks are Sexy might get a small commission from qualifying… [+1202 chars]"
+    },
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "J.E.",
+      "title": "La báscula de baño digital más vendida por menos de 10 euros y otros chollos de hogar y cocina",
+      "description": "La báscula que estabas buscando para tu baño existe. Y está en Amazon. Con más de 100.000 comentarios positivos, la báscula digital Renpho se ha convertido en el bestseller de la s",
+      "url": "https://www.marca.com/regalos-promociones/2025/03/08/67cb4018ca47410f6e8b459d.html",
+      "urlToImage": "https://phantom-marca.uecdn.es/91aab31f1ffde5c5fe033684afe36d8d/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/07/17413749540742.png",
+      "publishedAt": "2025-03-08T11:09:35Z",
+      "content": "La báscula que estabas buscando para tu baño existe. Y está en Amazon. Con más de 100.000 comentarios positivos, la báscula digital Renpho se ha convertido en el bestseller de la semana. Una aparto c… [+21813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ascii.jp"
+      },
+      "author": "ASCII",
+      "title": "【すぐわかる】iPadにMacBook Air、4つのアップル新製品の進化点まとめ",
+      "description": "3月4～5日の2日間、アップルから4つの新製品が発表。リアルタイムで追っかけきれてない人も多いと思うので、どんな製品なのか、何が変わったのかサクッとわかるようにまとめました！",
+      "url": "https://weekly.ascii.jp/elem/000/004/255/4255950/",
+      "urlToImage": "https://ascii.jp/img/2025/03/08/4174000/l/58e5725df44e84c3.jpg",
+      "publishedAt": "2025-03-08T04:00:00Z",
+      "content": "2iPhone 16e34524\r\n4312\r\n1iPadCPU2128GB58800\r\niPad\r\niPad\r\n10202210Touch ID10.9USB-C4CPU\r\nCPUA14A16A16iPhone 14 Pro1564GB→128GB58800512GB4GB→6GB\r\n10.9104Apple IntelligenceApple Pencil1(USB-C)\r\nCPU2\r\nAp… [+542 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Noah Hunter",
+      "title": "Samsung Is Having a Huge Spring Sale on Smartphones, TVs, and More",
+      "description": null,
+      "url": "https://www.ign.com/articles/samsung-spring-sale-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/03/08/samsungsale-1741393381795.jpg?width=1280",
+      "publishedAt": "2025-03-08T03:00:00Z",
+      "content": "Samsung has launched a major new spring sale on its online storefront with dozens of deals on items like smartphones, TVs, monitors, and plenty more categories. While it's only been a few weeks since… [+3920 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Purslow",
+      "title": "Is the Console War Finally Over?",
+      "description": "The battle between PlayStation and Xbox has waged for years, but a messy and unexpected conclusion to the console war may already have happened.",
+      "url": "https://www.ign.com/articles/is-the-console-war-finally-over",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/17/console-war-blogroll-1739793683745.jpg?width=1280",
+      "publishedAt": "2025-03-08T17:30:00Z",
+      "content": "PlayStation or Xbox? Its the long-running question of the modern video game world. At one point or another in your life, youve almost certainly been a part of this debate. Maybe youve started a Reddi… [+13418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "From Android to Pixel to YouTube: This week was a mini-Google I/O",
+      "description": "This was an insanely busy week in consumer-facing Google announcements. Approaching Google I/O levels, which is 72 days away, let’s alphabetically recap everything:\n\n\n\n more…",
+      "url": "http://9to5google.com/2025/03/08/mini-google-i-o-march-2025/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/android-booth-42.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-08T20:30:00Z",
+      "content": "This was an insanely busy week in consumer-facing Google announcements. Approaching Google I/O levels, which is 72 days away, lets alphabetically recap everything:\r\n9to5Google has a rebooted newslett… [+2772 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "hamish.hector@futurenet.com (Hamish Hector)",
+      "title": "ICYMI: the week's 7 biggest tech stories from the best tech at MWC to Apple's new iPads and MacBooks",
+      "description": "The week's 7 biggest tech stories from MWC, Apple, Meta and more for March 8, 2025.",
+      "url": "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-the-best-tech-at-mwc-to-apples-new-ipads-and-macbooks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iKGZqfBa9aAy5AVCJxcERk-1200-80.png",
+      "publishedAt": "2025-03-08T08:00:50Z",
+      "content": "Not only did MWC excite us with a host of excellent tech launches and innovative concept designs, but Apple gave us new iPads and MacBooks, and AMD wowed us with an affordable GPU.\r\nTo catch up on al… [+6710 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Dave Meikleham",
+      "title": "Sure, noise-cancelling headphones are great for work but they saved my sleep (and sanity) and several vacations too – here’s how",
+      "description": "The Apple AirPods Max’s noise-cancelling chops helped save my ultimate bucket list holiday in Hawaii.",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/sure-noise-cancelling-headphones-are-great-for-work-but-they-saved-my-sleep-and-sanity-and-several-vacations-too-heres-how",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wYGAqme33BJpGc6yUArynP-1200-80.png",
+      "publishedAt": "2025-03-08T17:00:00Z",
+      "content": "Outside of the invention of penicillin, noise-cancelling cans might be humanity’s greatest creation. I’m not just making that obviously wild statement as an audiophile. Oh no, I’m spouting those cont… [+7237 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "David Nield",
+      "title": "Three iPhone 17 model dummy units appear in a hands-on video leak",
+      "description": "Thanks to some dummy units, we've got another look at the iPhone 17 designs – and some key dimensions.",
+      "url": "https://www.techradar.com/phones/iphone/three-iphone-17-model-dummy-units-appear-in-a-hands-on-video-leak",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gWtK9fMmfzZCrmrk9LBZtH-1200-80.jpg",
+      "publishedAt": "2025-03-08T15:30:00Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EDummy units of three iPhone 17 models have appeared\u003C/li\u003E\u003Cli\u003EA hands-on video shows off the new designs\u003C/li\u003E\u003Cli\u003EWe also have predicted thicknesses for each of the handsets\u003C/li\u003E\u003C/ul\u003E\r\nIf Apple … [+2127 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "David Nield",
+      "title": "New Samsung Galaxy S25 Edge may have revealed some key details – including its price",
+      "description": "The upcoming phone is apparently going to cost as much as the Samsung Galaxy S25 Plus when it goes on sale.",
+      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/new-samsung-galaxy-s25-edge-may-have-revealed-some-key-details-including-its-price",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aaSsjevFjjFwAXTDz3kiKo-1200-80.jpg",
+      "publishedAt": "2025-03-08T11:30:00Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EWe may have thickness and weight details for the Galaxy S25 Edge\u003C/li\u003E\u003Cli\u003EThe price is said to match the Galaxy S25 Plus\u003C/li\u003E\u003Cli\u003EDisplay bezel size is apparently similar to the Galaxy S25 Ultr… [+2362 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Dave Meikleham",
+      "title": "Setting up the Sonos Arc Ultra soundbar was one of the worst tech experiences of my life, but damn it sounds incredible",
+      "description": "The Dolby Atmos soundbar sounds sensational, but pairing it with your existing speakers can be a nightmare due to the Sonos app.",
+      "url": "https://www.techradar.com/televisions/soundbars/setting-up-the-sonos-arc-ultra-soundbar-was-one-of-the-worst-tech-experiences-of-my-life-but-damn-it-sounds-incredible",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BejDbdBPzzs2aFJjsMcfPW-1200-80.jpg",
+      "publishedAt": "2025-03-08T12:00:00Z",
+      "content": "I. Loathe. The. Sonos. App. Sorry for that appalling punctuation, but since the firm retooled and relaunched its application last year, thousands of Sonos fans have been forced to endure audio anguis… [+3623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+      "title": "Apple Watch Series 10 Prices Slashed To Lowest-Ever, Right Now",
+      "description": "The latest Apple Watch is on offer in both sizes and various configurations right now at the lowest price it’s ever been.",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/03/08/apple-watch-series-10-prices-slashed-to-lowest-ever-right-now/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cc46686c3efbb5054bf500/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T13:31:55Z",
+      "content": "The latest Apple Watch is the Series 10, released in fall 2024. Right now, there are big discounts to be had, which isnt always the case on an Apple product just six months old. The prices are availa… [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+      "title": "iOS 18.4: iPhone Update’s New Emoji Include One That Is Surely Irresistible",
+      "description": "When Apple releases the next major iPhone update in April, there’s a raft of new features, including a collection of new emoji. One of which seems to sum up modern life (or is that just me?).",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/03/08/ios-184-iphone-updates-new-emoji-include-1-that-is-surely-irresistible/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cc2acc43f4cf311eb17156/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T12:00:36Z",
+      "content": "Apple has confirmed that its next major iPhone update is coming in April: iOS 18.4. It will have plenty of new stuff in it, though not the updated Siri which has been delayed, Apple has just announce… [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Klein, Contributor, \n Paul Klein, Contributor\n https://www.forbes.com/sites/pklein/",
+      "title": "Donald Trump: Founder, Leader, Or Failure?",
+      "description": "Donald Trump embodies some elements of a founder but lacks the operational discipline of an effective CEO. His approach isn't sustainable for him or for the country.",
+      "url": "https://www.forbes.com/sites/pklein/2025/03/08/donald-trump-founder-leader-or-failure/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cc77ce044e87b74781425c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T22:32:40Z",
+      "content": "U.S. President Donald Trump addresses a joint session of Congress at the U.S. Capitol on March 04, ... [+] 2025 in Washington, DC. (Photo by Andrew Harnik/Getty Images)\r\nGetty Images\r\nIn the world of… [+4469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Janhoi McGregor, Senior Contributor, \n Janhoi McGregor, Senior Contributor\n https://www.forbes.com/sites/jaymcgregor/",
+      "title": "Samsung Slashes Galaxy Z Flip 6 Price In Huge New Sale",
+      "description": "Samsung has responded to the iPhone 16e launch with a major new sale.",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2025/03/08/samsung-galaxy-z-flip-6-new-sale-trade-in-discount/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cb0af901a0d200ddaf8318/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T15:25:47Z",
+      "content": "The Samsung Electronics Galaxy Z Flip 6 Photographer: SeongJoon Cho/Bloomberg\r\n© 2024 Bloomberg Finance LP\r\nThis story was updated on March 8th with new Galaxy S25 Ultra sale details. \r\nSamsung would… [+3658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Toni Fitzgerald, Senior Contributor, \n Toni Fitzgerald, Senior Contributor\n https://www.forbes.com/sites/tonifitzgerald/",
+      "title": "30 Notable Female Singers Of The ‘90s",
+      "description": "Celebrate ‘90s female singers who ruled the charts with iconic hits, powerful voices, and unforgettable performances that shaped a generation.",
+      "url": "https://www.forbes.com/sites/entertainment/article/90s-female-singers/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c48e9c2560c014c1dd2630/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T18:00:00Z",
+      "content": "With her five-octave range, Mariah Carey has one of the most powerful and impressive voices of all ... [+] time. She is a top '90s female singer.\r\nFilmMagic\r\nThe top 1990s female vocalists marked a d… [+29469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Conor Murray, Forbes Staff, \n Conor Murray, Forbes Staff\n https://www.forbes.com/sites/conormurray/",
+      "title": "JD Vance Posts Meme Of Himself—As Largely Unflattering Vance Memes Flood Social Media",
+      "description": "Memes of Vice President JD Vance’s face edited to be comically large and resemble a child have flooded social media in recent weeks, with both left and right-wing users participating.",
+      "url": "https://www.forbes.com/sites/conormurray/2025/03/08/jd-vance-posts-meme-of-himself-as-largely-unflattering-vance-memes-flood-social-media/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cc8dd98993999ac2d67d5c/0x0.jpg?format=jpg&crop=3294,1853,x596,y102,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T18:35:57Z",
+      "content": "Memes of Vice President JD Vances face edited into recognizable memes and grotesque caricatures have flooded social media in recent weeksand the vice president participated Saturday, posting one such… [+4255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alex Vakulov, Contributor, \n Alex Vakulov, Contributor\n https://www.forbes.com/sites/alexvakulov/",
+      "title": "AI Enhances Security And Pushes Privacy Boundaries",
+      "description": "AI is transforming cybersecurity and privacy, enhancing protection while raising ethical concerns. Learn how to stay secure and protect your data in an AI-driven world.",
+      "url": "https://www.forbes.com/sites/alexvakulov/2025/03/08/ai-enhances-security-and-pushes-privacy-boundaries/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cc9936a6bf6f4048a51392/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T19:34:57Z",
+      "content": "Facial Recognition System concept.\r\ngetty\r\nArtificial Intelligence is reshaping cybersecurity and digital privacy, promising enhanced security while simultaneously raising questions about surveillanc… [+7674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jillian Dara, Contributor, \n Jillian Dara, Contributor\n https://www.forbes.com/sites/jilliandara/",
+      "title": "10 Female-Owned Breweries That Are Changing Beer",
+      "description": "These 10 female-owned breweries are redefining craft beer with bold flavors, inclusive spaces, and industry-first innovations.",
+      "url": "https://www.forbes.com/sites/jilliandara/2025/03/08/10-female-owned-breweries-that-are-changing-beer/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c9eb16cd2b6373fdd750bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T14:00:00Z",
+      "content": "Talea cofounders Tara Hankinson and LeAnn Darland\r\nTalea\r\nIn the last decade, women leadership and ownership of alcoholic beverage brands has witnessed prolific momentum.\r\nSome of the most impressive… [+7644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David G.W. Birch, Contributor, \n David G.W. Birch, Contributor\n https://www.forbes.com/sites/davidbirch/",
+      "title": "Safety, Seatbelts And Science Fiction: Finance Needs Friction",
+      "description": "Financial institutions aiming to strike the right balance must design their services to incorporate beneficial friction. What might this look like? Thank seatbelts.",
+      "url": "https://www.forbes.com/sites/davidbirch/2025/03/08/safety-seatbelts-and-science-fiction-finance-needs-friction/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cb4fe9d4ba90e40dd7320d/0x0.jpg?format=jpg&crop=1888,1062,x0,y217,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-08T10:04:16Z",
+      "content": "Actors Veronica Cartwright and Sigourney Weaver in a scene from the movie 'Alien', 1979. (Photo by ... [+] Stanley Bielecki Movie Collection/Getty Images)\r\nGetty Images\r\nRemember the movie Alien? I a… [+6909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": "Michael Larabel",
+      "title": "GTK On Android & macOS Seeing Improvements",
+      "description": "In addition to Friday's very exciting GNOME 48 release candidate with some last minute features, there have also been some other GNOME-related changes this week to call out...",
+      "url": "https://www.phoronix.com/news/GNOME-GTK-Android-macOS",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=refine_05",
+      "publishedAt": "2025-03-08T12:07:34Z",
+      "content": "In addition to Friday's very exciting GNOME 48 release candidate with some last minute features, there have also been some other GNOME-related changes this week to call out.\r\nThis Week in GNOME is ou… [+949 chars]"
+    }
+  ]
+}
